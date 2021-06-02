@@ -1,0 +1,205 @@
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll.config
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.pdb
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll.config
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csprojAssemblyReference.cache
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CopyComplete
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll.config
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.pdb
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll.config
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csprojAssemblyReference.cache
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CopyComplete
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\Fireworkx Guest\source\repos\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll.config
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.pdb
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll.config
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csprojAssemblyReference.cache
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CopyComplete
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.dll
+C:\Users\gavin\Documents\testFix\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll.config
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.pdb
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll.config
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csprojAssemblyReference.cache
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CoreCompileInputs.cache
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CopyComplete
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.dll
+C:\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll.config
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.Tests.pdb
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.pdb
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\TransactionalCustomerAccount.dll.config
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Helpers.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Mvc.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Razor.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Optimization.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csprojAssemblyReference.cache
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CoreCompileInputs.cache
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.csproj.CopyComplete
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.dll
+C:\TransactionAccount\TransactionAccount\TransactionAccount\TransactionalCustomerAccount.Tests\obj\Debug\TransactionalCustomerAccount.Tests.pdb
